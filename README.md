@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to write large maintainable systems
 - 💞️ I’m looking to collaborate on games and developer-facing software
 - 📫 Discord @Thelegendofbrio#2011
-- 😄 Pronouns: Anything 😂
 - ⚡ Fun fact: Minecraft and Starcraft are awesome
 
 <!---
