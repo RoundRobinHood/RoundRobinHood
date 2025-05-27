@@ -5,6 +5,7 @@
 - 📫 Discord @Thelegendofbrio#2011
 - ⚡ Fun fact: Minecraft and Starcraft are awesome
 
+[GPT's opinion of me 😂](./meGraph.md)
 <!---
 RoundRobinHood/RoundRobinHood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
